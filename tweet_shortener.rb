@@ -15,5 +15,10 @@ def dictionary
 end 
 
 def word_substituter(tweet)
-  
-end 
+  tweet.split.collect do |word|
+    
+end
+
+
+
+
